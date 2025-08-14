@@ -1,6 +1,7 @@
 # TorTray
 
 A macOS menu bar application for managing Tor connections with bridge support.
+![Uploading gifmethank (2).gif…]()
 
 ## Description
 
