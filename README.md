@@ -2,7 +2,11 @@
 
 A macOS menu bar application for managing Tor connections with bridge support.
 
-[Uploading gifmethank (2).gif…]
+
+![gifmethank (2)](https://github.com/user-attachments/assets/a4d23551-6806-4cff-803f-39f5dde9637f)
+
+
+
 
 ## Description
 
